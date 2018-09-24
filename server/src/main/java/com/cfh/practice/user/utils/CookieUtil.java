@@ -1,10 +1,10 @@
 package com.cfh.practice.user.utils;
 
 import lombok.extern.slf4j.Slf4j;
-import org.apache.catalina.servlet4preview.http.HttpServletRequest;
 import org.apache.commons.lang.StringUtils;
 
 import javax.servlet.http.Cookie;
+import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
